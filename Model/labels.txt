@@ -1,0 +1,7 @@
+0 Bad
+1 Call
+2 Eat
+3 Good
+4 Hello
+5 ILoveYou
+6 ThankYou
